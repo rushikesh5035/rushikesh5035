@@ -1,6 +1,3 @@
-<div>
-  <img align="center" src="">
-</div>
 
 
 <!--Night Owl image-->
@@ -14,7 +11,8 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a MERN Stack Developer with a huge love for HTML, CSS, JS, React.js, Node.js, MongoDB, RDBMS, MySQL </p>
+<p align="left">I am a MERN Stack Developer with a huge love for HTML, CSS, JS, React.js, Node.js, MongoDB, RDBMS, MySQL. </p>
+
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
@@ -25,11 +23,14 @@
 
 <!--Profile Count Badge-->
 <p align="left">
-  
+  <p> </p>
 </p>
+
+
 
 ---
 <br />
+
 
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
