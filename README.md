@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 🔭 I’m currently pursuing B Tech in E&TC at [VIT PUNE](https://www.vit.edu/)
 - ⚡I have completed my diploma in Electronics Engineering
-- 💻 Visit my [Portfolio](https://kiran1689.github.io) for more details about me.
+- 💻 Visit my [Portfolio]() for more details about me.
 <!--End Intro-->
 
 <!--Profile Count Badge-->
