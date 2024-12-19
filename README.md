@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+![MasterHead](https://github.com/rushikesh5035/rushikesh5035/blob/main/Profile%20Cover.png?raw=true)
 
 
 <h1 align="center">Hɪ 👋, I'ᴍ Rᴜsʜɪᴋᴇsʜ Tᴇʟᴇ</h1>
