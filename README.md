@@ -16,7 +16,7 @@
 <li>💬 Ask me about <b>MERN Stack</b></li>
 <li>🔭 I’m currently pursuing B Tech in E&TC at <b>VIT PUNE</b></li>
 <li>🌟 Passionate about creating innovative, real-world solutions with cutting-edge technologies.</li>
-<li>🌐 Check out my Portfolio 👉 <b><a href="https://rushikeshteledev.vercel.app" target="_blank">https://rushikeshteledev.vercel.app</a></b></li>
+<li>🌐 Check out my Portfolio 👉 <b><a href="https://rushikeshcv.vercel.app/" target="_blank">https://rushikeshteledev.vercel.app</a></b></li>
 
 <!-- <h3 align="left">📚 Check My DSA Journey:</h3>
 <p align="left"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
