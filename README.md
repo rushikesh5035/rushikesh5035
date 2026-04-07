@@ -75,31 +75,3 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
-
-
-
-<div align="center">
-<h2 align="center" style="font-size: 1.5em; font-family: 'Roboto', sans-serif;">📊 GitHub Stats:</h2>
-
-![](https://github-readme-stats.vercel.app/api?username=rushikesh5035&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rushikesh5035&theme=radical&hide_border=false)
-<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rushikesh5035&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-</div>
-
-
-<div align="center">
-<h2 align="center" style="font-size: 1.5em; font-family: 'Roboto', sans-serif;">🏆 GitHub Trophies</h2>
-
-![](https://github-profile-trophy.vercel.app/?username=rushikesh5035&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-</div>
-
-<!-- <div align="center">
-<h3 align="center" style="font-size: 1.5em; font-family: 'Roboto', sans-serif;">🔝 Top Contributed Repo</h3>
-
-![](https://github-contributor-stats.vercel.app/api?username=rushikesh5035&limit=5&theme=radical&combine_all_yearly_contributions=true) -->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
